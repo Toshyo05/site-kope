@@ -18,3 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
     filtersContainer.classList.remove("active");
   });
 });
+
+const meilleurNote = document.getElementById("meilleurNote");
+const meilleurDuMois = document.getElementById("meilleurDuMois");
+const moinsCher = document.getElementById("moinsCher");
+const plusCher = document.getElementById("plusCher");
